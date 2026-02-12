@@ -7,8 +7,6 @@ A simple and responsive Product Management System built using React, Redux Toolk
 🔗 Live Preview:
 https://react-practicle-exam.netlify.app/
 
-📸 Screenshots
-➤ Product Form Page
 
 (Add Product Form)
 
@@ -81,3 +79,4 @@ src/
 ├── main.jsx
 <br/>
 └── index.css
+
